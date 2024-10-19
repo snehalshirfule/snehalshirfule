@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @snehalshirfule
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python/Django
-- 💞️ I’m looking to collaborate on Django projects
+- 🌱 I’m create project using MERN 
 - 📫 How to reach me 
 
 <!---
